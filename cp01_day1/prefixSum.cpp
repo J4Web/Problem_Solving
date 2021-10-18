@@ -1,3 +1,5 @@
+//Brute Force
+//https://www.spoj.com/problems/CSUMQ/
 #include<bits/stdc++.h>
 #define e endl
 #define pb push_back
